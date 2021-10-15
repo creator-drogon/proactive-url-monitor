@@ -1,0 +1,16 @@
+username - GuggPtEjTQnfK2u3o0R6HQ==
+password - Jw1rqTIE+fH2DmDG84gU2Q==
+
+pbrun su - cap
+whoami
+
+cd /opt/cap-out/scripts/
+./StopDeliveryServers.sh
+echo "Current time: $(date +%T)"
+echo "Hi, I'm sleeping for 4 min ..."
+sleep 240
+echo "All done and current time: $(date +%T)"
+./StartDeliveryServers.sh
+exit
+exit
+

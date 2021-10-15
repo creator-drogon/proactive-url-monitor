@@ -1,0 +1,17 @@
+username - IrWzHrrD2dqnA5avRxdIMA==
+password - l/ikdlAWyd/s4dHxtZqiDw==
+
+
+pbrun su jboss
+
+cd /opt/cloudhost/jboss/jboss-eap-6.2/standalone1
+./standalone1-ctl.sh stop
+cd /opt/cloudhost/jboss/jboss-eap-6.2/standalone2
+./standalone2-ctl.sh stop
+
+cd /opt/cloudhost/jboss/jboss-eap-6.2/standalone1
+./standalone1-ctl.sh start
+cd /opt/cloudhost/jboss/jboss-eap-6.2/standalone2
+./standalone2-ctl.sh start
+exit
+exit

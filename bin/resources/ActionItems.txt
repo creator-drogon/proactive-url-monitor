@@ -1,0 +1,5 @@
+Exception handeling needed in stage2(resolution), is sequential and blocking in nature (Mohit)
+Email notification for SME in case of breakdown/failed-resolution(Deepak/Dev)
+Avoid Multiple execution for same server (Deepak)
+Make slides more customer-centric (Add/Hp/Wipro)	s
+Point the ticket reduction with this solution

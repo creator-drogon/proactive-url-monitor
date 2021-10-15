@@ -1,0 +1,6 @@
+username - kGaEsrbPvbLZLD9YQLXJqg==
+password - rJGsyl0Nz3G33/YTAnU2sw==
+
+sudo service jboss-eap restart
+exit 
+exit

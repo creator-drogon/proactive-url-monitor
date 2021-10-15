@@ -1,0 +1,12 @@
+username - GuggPtEjTQnfK2u3o0R6HQ==
+password - Jw1rqTIE+fH2DmDG84gU2Q==
+
+pbrun su - cap
+whoami
+
+/opt/webhost/whaeng/bin/stop_tomcat_inst WHA-General-Inst
+/opt/webhost/whaeng/bin/start_tomcat_inst WHA-General-Inst
+exit 
+exit
+
+

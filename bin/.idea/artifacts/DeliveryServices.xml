@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DeliveryServices">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="UrlMH3.jar">
+      <element id="module-output" name="UrlMH3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencsv-5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-csv-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-driver-2.46.0-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/activation-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.mail.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

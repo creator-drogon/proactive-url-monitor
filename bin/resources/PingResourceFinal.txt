@@ -1,0 +1,3 @@
+urlCsvPath - ./resources/FilteredUrl.csv
+ResultCsvPath - ./resources/Result.csv
+FilteredCsv - ./resources/FailedUrl.csv

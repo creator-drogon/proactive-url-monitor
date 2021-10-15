@@ -1,0 +1,10 @@
+Url,StatusCode
+http://-g8t00203c.inc.hpicorp.net:30050/console,-1
+http://g7u00090c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g7u00087c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g7u00089c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g7u00091c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g8t00348g.inc.hpicorp.net/HermesWS/healthcheck,200
+http://g7u00088c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g7u00092c.inc.hpicorp.net:8080/WHASample/sample.jsp,200
+http://g8t00887g.inc.hpicorp.net:50002/healthcheck.jsp,-1

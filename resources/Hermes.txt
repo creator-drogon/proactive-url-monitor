@@ -1,0 +1,14 @@
+username - GuggPtEjTQnfK2u3o0R6HQ==
+password - lqzGuaMsYSpWy4vv7QMtoQ==
+
+
+pbrun su - hermes
+whoami
+cd /opt/ais/app/tomcat/hermes_instance
+pwd
+./hermes_instance-ctl.sh stop 
+./hermes_instance-ctl.sh start 
+/opt/webhost/whaeng1.1/bin/stop_apache_inst WHA-General-Inst
+/opt/webhost/whaeng1.1/bin/start_apache_inst WHA-General-Inst
+exit 
+exit

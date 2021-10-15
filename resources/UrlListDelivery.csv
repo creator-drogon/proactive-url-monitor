@@ -1,0 +1,11 @@
+Url,Location,Server,Port,ServerType,URL Monitor Friendly Name,HPSME,PH,EPRID,Extra1,Extra2
+http://g7u00087c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00087c.inc.hpicorp.net,22,tomcat,g7u00087c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,1,1
+http://g7u00088c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00088c.inc.hpicorp.net,22,tomcat,g7u00088c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,2,2
+http://g7u00089c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00089c.inc.hpicorp.net,22,tomcat,g7u00089c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,3,3
+http://g7u00090c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00090c.inc.hpicorp.net,22,tomcat,g7u00090c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,4,4
+http://g7u00091c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00091c.inc.hpicorp.net,22,tomcat,g7u00091c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,5,5
+http://g7u00092c.inc.hpicorp.net:8080/WHASample/sample.jsp,./resources/cap.txt,g7u00092c.inc.hpicorp.net,22,tomcat,g7u00092c TomcatHealthcheck,matt.nidoh@hp.com_,NA,200258,6,6
+http://g8t00348g.inc.hpicorp.net/HermesWS/healthcheck,./resources/Hermes.txt,g8t00348g.inc.hpicorp.net,22,tomcat,Tomcat(Testing),karan.khanna@hp.com,NA,NA-001,8,8
+http://g8t00887g.inc.hpicorp.net:50002/healthcheck.jsp,./resources/weblogic_g8t00887g.txt,g8t00887g.inc.hpicorp.net,0,weblogic,weblogic(Testing),karan.khanna@hp.com,NA,NA-002,9,9
+http://-g8t00203c.inc.hpicorp.net:30050/console,./resources/MarcomWeblogic.txt,g8t00203c.inc.hpicorp.net,0,weblogic,weblogic(Testing),karan.khanna@hp.com,NA,NA-002,9,9
+g7w12027g.inc.hpicorp.net,na,g7w12027g.inc.hpicorp.net,0,linux,linux ping,karan.khanna@hp.com,na,na,na,na

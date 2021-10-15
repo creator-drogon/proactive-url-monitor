@@ -1,0 +1,3 @@
+username - 3TB7FXStolCMVGJDoGbKEQ==
+password - VQGJrAdwwBCR/IT/g96ErA==
+consoleurl - http://g8t00887g.inc.hpicorp.net:30000/console

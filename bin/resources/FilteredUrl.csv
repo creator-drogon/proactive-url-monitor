@@ -1,0 +1,3 @@
+Url,StatusCode,Location,Server,Port,ServerType,URL Monitor Friendly Name,HPSME,PH,EPRID,Extra1,Extra2
+http://-g8t00203c.inc.hpicorp.net:30050/console,-1,./resources/MarcomWeblogic.txt,g8t00203c.inc.hpicorp.net,0,weblogic,weblogic(Testing),karan.khanna@hp.com,NA,NA-002,9,9,
+http://g8t00887g.inc.hpicorp.net:50002/healthcheck.jsp,-1,./resources/weblogic_g8t00887g.txt,g8t00887g.inc.hpicorp.net,0,weblogic,weblogic(Testing),karan.khanna@hp.com,NA,NA-002,9,9,
